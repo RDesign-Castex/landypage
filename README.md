@@ -20,7 +20,7 @@
 * SASS
 #
 * <p align="center">Todos los derechos reservados &copy 2022 RDesign</p>
-<p class="text">
+* <p class="text" align="center">
  Diseñado y desarrollado con
 <span style="color: red; font-size: 25px">♥️ </span> por
 <ahref="https://dada-khalandar-portfolio.vercel.app/#/"target="_blank">René Kuhm</ahref=>
