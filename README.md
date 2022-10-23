@@ -19,11 +19,13 @@
 #
 * SASS
 #
+# 
+### Accede a mi Sitio Web
 <button type="button" class="btn btn-outline-warning"><a href="https://rdesign-castex.github.io/landypage/">Sitio web</a>
 </button>
 #
-* <p>Todos los derechos reservados &copy 2022 RDesign</p>
-<p class="text">
+* <p  align="center">Todos los derechos reservados &copy 2022 RDesign</p>
+<p class="text" align="center">
  Diseñado y desarrollado con
 <span style="color: red; font-size: 25px">♥️ </span> por
 <ahref="https://dada-khalandar-portfolio.vercel.app/#/"target="_blank">René Kuhm</ahref=>
