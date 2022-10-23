@@ -19,7 +19,7 @@
 #
 * SASS
 #
-* <p>Todos los derechos reservados &copy 2022 RDesign</p>
+* <p alingn="center">Todos los derechos reservados &copy 2022 RDesign</p>
 <p class="text">
  Diseñado y desarrollado con
 <span style="color: red; font-size: 25px">♥️ </span> por
