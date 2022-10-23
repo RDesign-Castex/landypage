@@ -18,3 +18,9 @@
 ### Proxima inclusion
 #
 * SASS
+#
+* Todos los derechos reservados copy& RDesign
+<p class="text">
+ Diseñado y desarrollado con
+<span style="color: red; font-size: 25px">♥️ </span> por
+<ahref="https://dada-khalandar-portfolio.vercel.app/#/"target="_blank">René Kuhm</ahref=>
