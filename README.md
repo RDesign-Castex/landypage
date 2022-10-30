@@ -15,7 +15,7 @@
 * CSS
 * JAVASCRIPT
 # Mockup
-<img src="https://imgur.com/hQL3bnN">
+<img src="https://i.imgur.com/ljPt9Mi.png">
 
 ### Proxima inclusion
 #
