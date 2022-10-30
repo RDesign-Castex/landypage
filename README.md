@@ -14,7 +14,8 @@
 * HTML5
 * CSS
 * JAVASCRIPT
-
+# Mockup
+<img src="./assets/images/CleanShot%202022-10-30%20at%2011.41.17.png">
 ### Proxima inclusion
 #
 #
